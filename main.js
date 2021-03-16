@@ -1,0 +1,4 @@
+message = "";
+function checkMessages(){
+    if()
+}
